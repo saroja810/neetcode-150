@@ -106,19 +106,6 @@ For each problem:
 7. Analyze complexity
 8. Document learning
 
-
----
-
-## 🔥 Current Focus
-
-Currently learning:
-
-- NeetCode 150
-- Pattern Recognition
-- Java DSA
-- Interview preparation
-- Git & GitHub workflow
-
 ---
 
 ## ⭐ Purpose
