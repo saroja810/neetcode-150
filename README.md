@@ -10,10 +10,8 @@ This repository contains my solutions, approaches, and structured notes while so
 
 - Strengthen Data Structures & Algorithms
 - Improve problem-solving skills
-- Master Java for placements
 - Build consistency and discipline
 - Learn pattern recognition
-- Prepare for software engineering interviews
 
 ---
 
@@ -44,9 +42,6 @@ neetcode-150
 │
 ├── Arrays & Hashing
 │     ├── Contains Duplicate
-│     │      ├── README.md
-│     │      └── Solution.java
-│     │
 │     ├── Valid Anagram
 │     ├── Two Sum
 │     ├── Group Anagrams
