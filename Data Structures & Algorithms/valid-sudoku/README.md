@@ -180,7 +180,7 @@ Otherwise insert.
 Time Complexity:
 
 ```txt
-O(81)
+O(n^2)
 ```
 
 Reason:
@@ -190,7 +190,7 @@ Maximum board size always fixed.
 Space Complexity:
 
 ```txt
-O(1)
+O(n^2)
 ```
 
 Reason:
